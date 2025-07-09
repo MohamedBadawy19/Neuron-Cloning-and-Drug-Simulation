@@ -49,35 +49,23 @@ This project requires the following dependencies:
 Build Neuron-Cloning-and-Drug-Simulation from the source and install dependencies:
 
 1. **Clone the repository:**
-```bash
+
 git clone https://github.com/MohamedBadawy19/Neuron-Cloning-and-Drug-Simulation
 Navigate to the project directory:
 
-bash
-Copy
-Edit
 cd Neuron-Cloning-and-Drug-Simulation
 Install the dependencies:
 
-bash
-Copy
-Edit
 # Example using pip
 pip install -r requirements.txt
 Usage
 Run the project with:
 
-bash
-Copy
-Edit
 # Example using Jupyter
 jupyter notebook
 Testing
 Neuron-Cloning-and-Drug-Simulation uses the unittest (or your preferred test framework) test framework. Run the test suite with:
 
-bash
-Copy
-Edit
 # Example using pytest
 pytest tests/
 ⬆ Return to Top
